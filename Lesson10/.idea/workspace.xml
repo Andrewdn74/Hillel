@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26d7a34e-f72e-4f4d-8645-6f8a84923133" name="Changes" comment="" />
+    <list default="true" id="02bcab68-c01d-4749-a6f2-8440869d2207" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,25 +23,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2AVopGhjn6fHw8aBBAzCVQNXHXP" />
+  <component name="ProjectId" id="2BkkJoufoq3WwC3hrAgzBfqm2lA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Warriors">
-    <configuration name="Salary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Andrii.Vakulenko.lesson3.Salary" />
-      <module name="Lesson3" />
+}</component>
+  <component name="RunManager" selected="Application.Andrii.Vakulenko.Lesson10.Burgers.BurgerMain">
+    <configuration name="Andrii.Vakulenko.Lesson10.Burgers.BurgerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Andrii.Vakulenko.Lesson10.Burgers.BurgerMain" />
+      <module name="Lesson10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Andrii.Vakulenko.lesson3.*" />
+          <option name="PATTERN" value="Andrii.Vakulenko.Lesson10.Burgers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +49,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sphere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Andrii.Vakulenko.lesson3.Sphere" />
-      <module name="Lesson3" />
+    <configuration name="BurgerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Andrii.Vakulenko.Lesson10.BurgerMain" />
+      <module name="Lesson10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Andrii.Vakulenko.lesson3.*" />
+          <option name="PATTERN" value="Andrii.Vakulenko.Lesson10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,25 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Andrii.Vakulenko.lesson3.Strings" />
-      <module name="Lesson3" />
+    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Andrii.Vakulenko.Lesson10.Cars.CarMain" />
+      <module name="Lesson10" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Andrii.Vakulenko.lesson3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Warriors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Andrii.Vakulenko.lesson3.Warriors" />
-      <module name="Lesson3" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Andrii.Vakulenko.lesson3.*" />
+          <option name="PATTERN" value="Andrii.Vakulenko.Lesson10.Cars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,21 +77,20 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Warriors" />
-        <item itemvalue="Application.Salary" />
-        <item itemvalue="Application.Sphere" />
-        <item itemvalue="Application.Strings" />
+        <item itemvalue="Application.Andrii.Vakulenko.Lesson10.Burgers.BurgerMain" />
+        <item itemvalue="Application.CarMain" />
+        <item itemvalue="Application.BurgerMain" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="26d7a34e-f72e-4f4d-8645-6f8a84923133" name="Changes" comment="" />
-      <created>1655104308545</created>
+      <changelist id="02bcab68-c01d-4749-a6f2-8440869d2207" name="Changes" comment="" />
+      <created>1657457409126</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1655104308545</updated>
+      <updated>1657457409126</updated>
     </task>
     <servers />
   </component>
